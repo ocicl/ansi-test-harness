@@ -1,0 +1,9 @@
+* ansi-test-harness
+
+A testing harness that fetches ansi-test and allows subsets and extrinsic systems
+
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/yitzchak/ansi-test-harness.git |
+| commit  | dd7c370                                               |
+| systems | ansi-test-harness                                     |
+|---------+-------------------------------------------------------|
