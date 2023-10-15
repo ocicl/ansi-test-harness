@@ -4,6 +4,6 @@ A testing harness that fetches ansi-test and allows subsets and extrinsic system
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/yitzchak/ansi-test-harness.git |
-| commit  | dd7c370                                               |
+| commit  | 3ec9c1b                                               |
 | systems | ansi-test-harness                                     |
 |---------+-------------------------------------------------------|
